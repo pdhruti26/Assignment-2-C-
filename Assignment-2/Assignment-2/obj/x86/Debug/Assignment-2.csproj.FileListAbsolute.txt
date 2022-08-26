@@ -1,0 +1,4 @@
+C:\SEMESTER_5\C#.NET\Excercise-2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe
+C:\SEMESTER_5\C#.NET\Excercise-2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.pdb
+C:\SEMESTER_5\C#.NET\Excercise-2\Assignment-2\Assignment-2\obj\x86\Debug\Assignment-2.exe
+C:\SEMESTER_5\C#.NET\Excercise-2\Assignment-2\Assignment-2\obj\x86\Debug\Assignment-2.pdb

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EE971FAB-6865-436C-A655-076A493304D5}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assignment_2</RootNamespace>
+    <AssemblyName>Assignment-2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>pro55</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="pro01.cs" />
+    <Compile Include="pro10.cs" />
+    <Compile Include="pro11.cs" />
+    <Compile Include="pro12.cs" />
+    <Compile Include="pro13.cs" />
+    <Compile Include="pro14.cs" />
+    <Compile Include="pro15.cs" />
+    <Compile Include="pro02.cs" />
+    <Compile Include="pro03.cs" />
+    <Compile Include="pro04.cs" />
+    <Compile Include="pro05.cs" />
+    <Compile Include="pro06.cs" />
+    <Compile Include="pro07.cs" />
+    <Compile Include="pro08.cs" />
+    <Compile Include="pro09.cs" />
+    <Compile Include="pro16.cs" />
+    <Compile Include="pro17.cs" />
+    <Compile Include="pro18.cs" />
+    <Compile Include="pro19.cs" />
+    <Compile Include="pro20.cs" />
+    <Compile Include="pro21.cs" />
+    <Compile Include="pro22.cs" />
+    <Compile Include="pro23.cs" />
+    <Compile Include="pro24.cs" />
+    <Compile Include="pro25.cs" />
+    <Compile Include="pro26.cs" />
+    <Compile Include="pro27.cs" />
+    <Compile Include="pro28.cs" />
+    <Compile Include="pro29.cs" />
+    <Compile Include="pro30.cs" />
+    <Compile Include="pro31.cs" />
+    <Compile Include="pro32.cs" />
+    <Compile Include="pro33.cs" />
+    <Compile Include="pro34.cs" />
+    <Compile Include="pro35.cs" />
+    <Compile Include="pro36.cs" />
+    <Compile Include="pro37.cs" />
+    <Compile Include="pro38.cs" />
+    <Compile Include="pro39.cs" />
+    <Compile Include="pro40.cs" />
+    <Compile Include="pro41.cs" />
+    <Compile Include="pro42.cs" />
+    <Compile Include="pro43.cs" />
+    <Compile Include="pro44.cs" />
+    <Compile Include="pro45.cs" />
+    <Compile Include="pro46.cs" />
+    <Compile Include="pro47.cs" />
+    <Compile Include="pro48.cs" />
+    <Compile Include="pro49.cs" />
+    <Compile Include="pro50.cs" />
+    <Compile Include="pro51.cs" />
+    <Compile Include="pro52.cs" />
+    <Compile Include="pro53.cs" />
+    <Compile Include="pro54.cs" />
+    <Compile Include="pro55.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
